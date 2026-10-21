@@ -4,13 +4,13 @@
 
 ## Overview
 
-A seven-deliverable MFA implementation framework designed for a 400-person financial services enterprise. Developed as a consulting engagement covering the full MFA lifecycle — from initial assessment through to practical deployment and security monitoring.
+A seven-deliverable MFA implementation framework designed for a 400-person financial services enterprise. On-job training (OJT) project at Spinnaker Analytics (Boston Institute of Analytics), completed as part of my PG Diploma (2026), adapted for GitHub. Covers the full MFA lifecycle, from initial assessment through to practical deployment and security monitoring.
 
 ## Business Context
 
 **Organisation:** FinSecure Pvt. Ltd. — Financial Services  
 **Challenge:** Securing access to sensitive financial systems across 400 employees while meeting regulatory compliance requirements.  
-**Solution:** A layered MFA strategy combining TOTP, push notifications, hardware tokens, and biometrics — deployed with zero disruption to business operations.
+**Solution:** A layered MFA strategy combining TOTP, push notifications, hardware tokens, and biometrics — designed to roll out without disrupting business operations.
 
 ## Deliverables
 
