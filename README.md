@@ -4,7 +4,7 @@
 
 ## Overview
 
-A seven-deliverable MFA implementation framework designed for a 400-person financial services enterprise. On-job training (OJT) project at Spinnaker Analytics (Boston Institute of Analytics), completed as part of my PG Diploma (2026), adapted for GitHub. Covers the full MFA lifecycle, from initial assessment through to practical deployment and security monitoring.
+A seven-deliverable MFA implementation framework designed for a 400-person financial services enterprise. On-job training (OJT) project at Spinnaker Analytics, completed as part of my Master Diplomas in Cyber Security and Ethical Hacking at Boston Institute of Analytics (2026). Adapted for GitHub. Covers the full MFA lifecycle, from initial assessment through to practical deployment and security monitoring.
 
 ## Business Context
 
